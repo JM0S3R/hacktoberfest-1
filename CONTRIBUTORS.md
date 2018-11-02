@@ -1055,6 +1055,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full stack .NET developer (and .NET Core blogger)
 - GitHub: [GaProgMan](https://github.com/GaProgMan)
 
+#### Name: [Jared Moser](https://github.com/JM0S3R)
+- Place: Lehigh Valley, PA, USA
+- Bio: Software Engineering Undergrad | Father of 2
+- GitHub: [JM0S3R](https://github.com/JM0S3R)
+
 #### Name: [Jasdy Syarman](https://github.com/akutaktau)
 - Place: Malaysia
 - Bio: PHP Programmer
